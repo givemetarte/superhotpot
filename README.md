@@ -1,15 +1,5 @@
-# Welcome to my datascience study notebooks 🍎
+# SuperHotpot 🍎
 
-
-
-
-## __Tracking pieces of my datascience study__
-
-I've taught myself datascience since 2017. Before 2017, I didn't know anything about coding and I was a  super super python beginner. But, I'm pretty sure that I've been working hard for studying this. I'm not a master of those things, but I'm still trying to keep going. 
-
-## __Objective__
-
-* A data analyst in Sociology
 
 ## __Works__
 
